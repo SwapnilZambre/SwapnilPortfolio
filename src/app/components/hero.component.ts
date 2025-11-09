@@ -116,7 +116,7 @@ import { TypingEffectDirective } from '../directives/typing-effect.directive';
           </div>
 
           <div
-            class="hidden md:block"
+            class="block  md:block"
             appScrollAnimation="fadeInRight"
             [scrollAnimationDelay]="200"
             [scrollAnimationDuration]="600"
