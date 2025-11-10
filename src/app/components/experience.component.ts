@@ -48,7 +48,7 @@ export class ExperienceComponent {
     {
       title: 'Software Developer',
       company: 'Senwell Solutions Pvt. Ltd.',
-      period: 'January 2023 – Present',
+      period: 'January 2024 - Present',
       description: [
         'Developed reusable Angular components for logistics web app (AggDirect) spanning five micro frontends',
         'Integrated RESTful APIs and Auth0 for JWT-based authentication and secure multi-portal access',
@@ -59,7 +59,7 @@ export class ExperienceComponent {
     {
       title: 'Associate System Analyst',
       company: 'National Stock Exchange IT',
-      period: 'March 2022 – January 2023',
+      period: 'March 2022 - January 2024',
       description: [
         'Designed and implemented responsive UIs with Angular and Bootstrap for trading applications',
         'Integrated APIs for real-time data rendering and financial data visualization',
