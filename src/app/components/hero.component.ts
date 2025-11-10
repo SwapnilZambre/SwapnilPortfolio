@@ -109,18 +109,23 @@ import { TypingEffectDirective } from '../directives/typing-effect.directive';
               </div>
             </div>
 
-            <div class="flex gap-4 pt-4">
-              <a href="#projects" class="btn-primary">View My Work</a>
-              <a href="#skills" class="btn-secondary">My Skills</a>
-              <a
-                href="Resume/Swapnil_Zambre_Angular_Developer.pdf"
-                class="btn-primary"
-                download
-                target="_blank"
-              >
-                Download Resume
-              </a>
-            </div>
+            <div class="flex flex-wrap justify-center items-center gap-3 pt-2 text-center">
+  <a href="#projects" class="btn-primary px-4 py-2 text-sm sm:text-base">
+    View My Work
+  </a>
+  <a href="#skills" class="btn-secondary px-4 py-2 text-sm sm:text-base">
+    My Skills
+  </a>
+  <a
+    href="/Resume/Swapnil_Zambre_Angular_Developer.pdf"
+    class="btn-primary px-4 py-2 text-sm sm:text-base"
+    download
+    target="_blank"
+  >
+    Download Resume
+  </a>
+</div>
+
           </div>
 
           <div

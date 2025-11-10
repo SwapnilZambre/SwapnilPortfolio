@@ -100,7 +100,7 @@ import { TypingEffectDirective } from '../directives/typing-effect.directive';
   `,
 })
 export class HeaderComponent {
-  isDarkMode = signal(false);
+  isDarkMode = signal(true);
 
   constructor() {
     const prefersDark = window.matchMedia(
